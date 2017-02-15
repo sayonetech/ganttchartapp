@@ -1,5 +1,5 @@
 
-Gantt chart implementation in Django
+Gantt chart implementation in Django (using twproject for gantt chart)
 
 # Features
 * manage task statuses –> sort of workflow handling
@@ -16,7 +16,7 @@ git clone https://github.com/sayonetech/ganttchartapp.git
 
 # Installation Process
 
-Create a virtual `<http://docs.python-guide.org/en/latest/dev/virtualenvs/>`_
+Create a virtual http://docs.python-guide.org/en/latest/dev/virtualenvs/>
 
 pip install -r requirements.txt
 
