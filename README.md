@@ -14,9 +14,9 @@ Gantt chart implementation in Django (using twproject for gantt chart)
 # How to clone?
 git clone https://github.com/sayonetech/ganttchartapp.git
 
-# Installation Process
+# Quick Start
 
-Create a virtual http://docs.python-guide.org/en/latest/dev/virtualenvs/>
+Create a virtual ,see this http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
 pip install -r requirements.txt
 
